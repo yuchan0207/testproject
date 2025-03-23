@@ -1,4 +1,4 @@
-console.log("hello world");console.log("hello world");
+console.log("hello world");
 let likefunc = () => {
     console.log("좋아요 누름!")
 }
